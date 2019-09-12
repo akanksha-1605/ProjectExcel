@@ -30,6 +30,7 @@ public class DataReaderXl {
 		for(int y=0;y<ro.getLastCellNum();y++)
 		{
 			System.out.println(ro.getCell(y).getStringCellValue());
+			System.out.println("Print this message");
 		}
 	}
 	}
