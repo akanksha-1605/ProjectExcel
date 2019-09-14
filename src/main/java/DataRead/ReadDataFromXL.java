@@ -12,9 +12,10 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 public class ReadDataFromXL {
 	
-	
+	 
 	 public static void validate(String fl) throws IOException
 	 {
 		String location=System.getProperty("user.dir")+fl;
@@ -83,7 +84,7 @@ public class ReadDataFromXL {
 				
 		 
 			 }
-
+        
 	    public static void main(String[] args) throws IOException {
 
 	    	{

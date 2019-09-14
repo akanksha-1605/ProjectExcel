@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="1454" started-at="2019-09-12T20:02:05Z" finished-at="2019-09-12T20:02:07Z">
+  <suite name="Default suite" duration-ms="1576" started-at="2019-09-14T09:39:31Z" finished-at="2019-09-14T09:39:32Z">
     <groups>
     </groups>
-    <test name="Tools" duration-ms="1454" started-at="2019-09-12T20:02:05Z" finished-at="2019-09-12T20:02:07Z">
+    <test name="Default test" duration-ms="1576" started-at="2019-09-14T09:39:31Z" finished-at="2019-09-14T09:39:32Z">
       <class name="ExcelSheetReader.DataReaderXl">
-        <test-method status="PASS" signature="func()[pri:0, instance:ExcelSheetReader.DataReaderXl@204f30ec]" name="func" duration-ms="1407" started-at="2019-09-12T13:02:05Z" finished-at="2019-09-12T13:02:07Z">
+        <test-method status="PASS" signature="func()[pri:0, instance:ExcelSheetReader.DataReaderXl@754ba872]" name="func" duration-ms="1528" started-at="2019-09-14T02:39:31Z" finished-at="2019-09-14T02:39:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- func -->
       </class> <!-- ExcelSheetReader.DataReaderXl -->
-    </test> <!-- Tools -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

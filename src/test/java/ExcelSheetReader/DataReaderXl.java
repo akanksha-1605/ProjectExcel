@@ -13,7 +13,8 @@ import org.testng.annotations.Test;
 
 public class DataReaderXl {
     
-	public static void main(String args[]) throws IOException
+	@Test
+	public void func() throws IOException
 	{
 	//To open excel
 	String s=System.getProperty("user.dir")+"\\Resources\\DataSheet.xlsx";

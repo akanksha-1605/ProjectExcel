@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7406" started-at="2019-09-12T20:14:57Z" finished-at="2019-09-12T20:15:05Z">
+  <suite name="Suite" duration-ms="1503" started-at="2019-09-14T09:52:53Z" finished-at="2019-09-14T09:52:55Z">
     <groups>
     </groups>
-    <test name="Tools" duration-ms="7406" started-at="2019-09-12T20:14:57Z" finished-at="2019-09-12T20:15:05Z">
+    <test name="Tools" duration-ms="1503" started-at="2019-09-14T09:52:53Z" finished-at="2019-09-14T09:52:55Z">
       <class name="ExcelSheetReader.DataReaderXl">
-        <test-method status="PASS" signature="func()[pri:0, instance:ExcelSheetReader.DataReaderXl@7ca48474]" name="func" duration-ms="6927" started-at="2019-09-12T13:14:58Z" finished-at="2019-09-12T13:15:05Z">
+        <test-method status="PASS" signature="func()[pri:0, instance:ExcelSheetReader.DataReaderXl@7ca48474]" name="func" duration-ms="1470" started-at="2019-09-14T02:52:53Z" finished-at="2019-09-14T02:52:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- func -->
